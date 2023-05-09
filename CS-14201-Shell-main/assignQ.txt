@@ -1,0 +1,120 @@
+
+Ex3a generate multiplication table I/0
+Ex3b generate multiplication table command
+Ex 3c generate multiplication table from file
+
+Ex 4a copies file to directory I\0
+Ex4b copies file to directory command
+
+Ex5a count number of lines & words I/0
+Ex5b count number of lines & words command
+
+Ex6a display list of all files I/0
+Ex6b display list of all files command
+
+Ex7 perform calculation using flags
+
+Ex8a number is prime or not I/0
+Ex8b number is prime or not command
+
+Ex9a print all the primes I/0
+Ex9b print all the primes command
+
+Ex10a print first n fibonacci I/0
+Ex10b print first n fibonacci command
+
+Ex11a find gcd I/0
+Ex11b fing gcg command
+
+Ex12a reverse the rows & col I/0
+Ex12b reverse the rows & col command
+
+Ex13a scalar product I/0
+Ex13b scalar product command
+
+
+
+ex - 14 : C program that counts the number of blanks in a text file.
+ex --15 : C program that counts the number of words , lines and characteres
+ex -16 
+a . cat using system calls 
+b. ls 
+c. mv
+
+ex -17 : Takes one or more file directory names as command line input and reports the following info
+a. File type
+b. Number of links
+c. Time of last access
+d. Read,write and execute permissions
+
+ex -18
+to execute two commands concurrently with a command pipe
+
+ex -19
+creation of child process using fork call
+
+ex-20
+
+displays the real time of a day every 60 sec
+
+ex- 21
+
+file locking using semaphores
+
+ex -22
+
+implements a producer - consumer system with two processes ( using sempahores)
+
+ex -23
+
+Inter process communication using shared memory system calls
+
+ex - 24
+
+a. Creating message queue
+b. Writing to a message queue
+c. Reading from a message queue
+
+
+ex - 25
+
+copy a file into another using system calls
+
+ex -26
+
+reads a file and writes the reverse in the reverse order
+
+ex -27 
+
+prints all error messages
+
+ex -28
+
+list only directories
+
+ex - 29
+
+program to check all 12 permissions  bits of a file
+
+ex -30
+
+file's access rights using UID and GID
+
+ex -31
+
+set a file's stamps to those of another file
+
+ex -32 
+c program using fork,exec and wait to run UNIX command
+
+ex -33
+
+c program to accept user input as a command to be executed and then uses the strtok library function for parsing command line
+
+ex -34
+
+run two programs as a pipeline (Child runs cat , parent runs tr)
+
+ex -35
+
+program that uses fork and exec to run a user defined program and kills if it does not complete in 5 seconds
